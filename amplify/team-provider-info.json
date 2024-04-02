@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-instantripui-dev-215152-authRole",
+      "UnauthRoleArn": "arn:aws:iam::381492211790:role/amplify-instantripui-dev-215152-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::381492211790:role/amplify-instantripui-dev-215152-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-instantripui-dev-215152-deployment",
+      "UnauthRoleName": "amplify-instantripui-dev-215152-unauthRole",
+      "StackName": "amplify-instantripui-dev-215152",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:381492211790:stack/amplify-instantripui-dev-215152/9eff1b00-eb6f-11ee-9b35-0ae92c0e66c1",
+      "AmplifyAppId": "d1r1gd1cxp8ozr"
+    },
+    "categories": {
+      "api": {
+        "instantripui": {}
+      },
+      "function": {
+        "instantripui452cdcab": {}
+      }
+    }
+  }
+}

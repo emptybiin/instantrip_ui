@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "api": {
+      "instantripui": [
+        "Query"
+      ]
+    },
+    "storage": {
+      "Todo:@model(appsync)": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
